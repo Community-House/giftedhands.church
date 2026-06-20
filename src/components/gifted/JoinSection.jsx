@@ -75,7 +75,7 @@ export default function JoinSection() {
                 We are building something that has never been done before — a worship experience where every art form becomes an act of praise. If you are a creator, a dreamer, or simply someone who feels called, this is your moment.
               </p>
               <a
-                href="#connect"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdgGTrLBpw8_2n_uY8ugW73zEIhMmaKMgixHRBUOiAxgQKqxA/viewform?usp=sharing&ouid=104027221578412199654"
                 className="inline-block font-body text-sm font-semibold tracking-[0.15em] px-10 py-4 transition-all"
                 style={{ background: "#c9a84c", color: "#1a0a2e", borderRadius: 4 }}
                 onMouseEnter={(e) => { e.currentTarget.style.background = "#b8974a"; }}
