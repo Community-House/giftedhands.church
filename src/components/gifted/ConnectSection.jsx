@@ -39,7 +39,7 @@ export default function ConnectSection() {
       <div className="max-w-7xl mx-auto px-6 relative z-10">
         <h2 className="font-display text-5xl text-[#c9a84c] text-center mb-4">Connect</h2>
         <p className="font-body text-white/60 text-center mb-14 text-base max-w-xl mx-auto">
-          Be part of something that's never been done before. We're building a creative worship community from the ground up.
+          If you're interested in learning more about Gifted Hands, attending future gatherings, supporting the vision, or simply staying connected as the movement grows, we'd love to hear from you. There is a place for artists, dreamers, seekers, supporters, and curious hearts alike.
         </p>
 
         <div className="max-w-xl mx-auto">
