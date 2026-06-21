@@ -65,6 +65,7 @@ export default function ConnectSection() {
             <textarea
               placeholder="Tell us about your gift or calling..."
               rows={4}
+              required
               value={form.message}
               onChange={(e) => setForm({ ...form, message: e.target.value })}
               className="w-full bg-white/5 border border-white/10 text-white placeholder-white/30 px-5 py-3 font-body text-base focus:outline-none focus:border-[#c9a84c]/60 transition-colors resize-none"
