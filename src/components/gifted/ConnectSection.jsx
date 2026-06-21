@@ -7,7 +7,7 @@ export default function ConnectSection() {
   const handleSubmit = (e) => {
     e.preventDefault();
     const body = `Name: ${form.name}\nEmail: ${form.email}\n\nMessage:\n${form.message}`;
-    const mailto = `mailto:victorianna@giftedhands.church?subject=${encodeURIComponent("Join Gifted Hands")}&body=${encodeURIComponent(body)}`;
+    const mailto = `mailto:connect@giftedhands.church?subject=${encodeURIComponent("Join Gifted Hands")}&body=${encodeURIComponent(body)}`;
     window.location.href = mailto;
   };
 
