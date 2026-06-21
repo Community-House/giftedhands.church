@@ -46,7 +46,7 @@ export default function HeroSection() {
           Masterpieces in Progress
         </p>
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSdgGTrLBpw8_2n_uY8ugW73zEIhMmaKMgixHRBUOiAxgQKqxA/viewform?usp=sharing&ouid=104027221578412199654"
+          href="https://forms.gle/5fZA7cy4Aj5SDEEA9"
           className="inline-block bg-[#2d1548] text-white font-body text-sm tracking-[0.15em] px-8 py-3 hover:bg-[#3d1f60] transition-colors border border-[#c9a84c]/40"
         >
           JOIN THE TEAM
