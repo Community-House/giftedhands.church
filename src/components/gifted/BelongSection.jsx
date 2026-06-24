@@ -34,7 +34,7 @@ export default function BelongSection() {
       />
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
-        <h2 className="font-display text-5xl text-[#c9a84c] text-center mb-4">You Belong Here</h2>
+        <h2 className="font-display text-5xl text-[#c9a84c] text-center mb-4">There's A Place For You</h2>
         <p className="font-heading text-xl text-white/70 text-center italic mb-14">
           This is not an exclusive club.
         </p>
