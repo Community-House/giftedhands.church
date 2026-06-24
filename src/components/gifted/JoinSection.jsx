@@ -43,7 +43,7 @@ export default function JoinSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-center max-w-6xl mx-auto">
           {/* Left: belong list */}
           <div className="flex flex-col gap-3">
-            {belongPeople.map((text) => (
+            {/* {belongPeople.map((text) => (
               <div
                 key={text}
                 className="flex items-center gap-3 px-5 py-4 rounded-lg"
@@ -52,7 +52,7 @@ export default function JoinSection() {
                 <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ background: "#c9a84c" }} />
                 <p className="font-heading text-xl sm:text-2xl text-white/90">{text}</p>
               </div>
-            ))}
+            ))} */}
           </div>
 
           {/* Right: Join the team CTA */}
