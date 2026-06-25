@@ -36,7 +36,7 @@ export default function JoinSection() {
         <div className="text-center mb-16">
           <h2 className="font-display text-5xl sm:text-6xl text-[#c9a84c] mb-4">There's A Place For You</h2>
           <p className="font-heading text-xl sm:text-2xl text-white/70 italic">
-            This is not an exclusive club.
+            {/* This is not an exclusive club. */}
           </p>
         </div>
 
