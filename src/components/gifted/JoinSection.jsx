@@ -43,6 +43,7 @@ export default function JoinSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-center max-w-6xl mx-auto">
           {/* Left: belong list */}
           <div className="flex flex-col gap-3">
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
             {/* {belongPeople.map((text) => (
               <div
                 key={text}
